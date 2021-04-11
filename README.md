@@ -1,3 +1,3 @@
 # demo
 
-Description: This is my first experience with Github platform.
+Description: This is my first experience with Github platform!
